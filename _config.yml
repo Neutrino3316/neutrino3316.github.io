@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Neutrino"
 title_separator          : "-"
 name                     : # &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
 description              : # &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
@@ -63,7 +63,7 @@ atom_feed:
 
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : algolia # lunr (default), algolia
+search_provider          : # lunr (default), algolia
 algolia:
   application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
   index_name             : minimal_mistakes # YOUR_INDEX_NAME
@@ -97,36 +97,30 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : # "UA-2011187-3" # Replace this with your ID, or delete
     anonymize_ip         : true
 
 
 # Site Author
 author:
-  name             : # *name # *name is a YAML reference pointing to the &anchor earlier
+  name             : "Neutrino" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : # "/assets/images/michael-rose.jpg"
-  bio              : # "Just another boring, tattooed, time traveling, designer."
-  location         : # "Buffalo, NY"
+  bio              : "Sun Yat-sen University" # "Just another boring, tattooed, time traveling, designer."
+  location         : "Guangzhou, China"
   links:
-    - label: "Made Mistakes"
+    - label: "Neutrino personal website"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://neutrino3316.github.io"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/neutrino3316"
 
 
 # Reading Files
@@ -208,6 +202,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -219,6 +214,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
   # _docs
   - scope:
@@ -226,6 +222,7 @@ defaults:
       type: docs
     values:
       layout: single
+      classes: wide
       read_time: false
       author_profile: false
       share: false
@@ -238,6 +235,7 @@ defaults:
       type: recipes
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comments: true
@@ -247,6 +245,7 @@ defaults:
       type: pets
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comment: true
@@ -256,6 +255,7 @@ defaults:
       type: portfolio
     values:
       layout: single
+      classes: wide
       author_profile: false
       share: true
 
