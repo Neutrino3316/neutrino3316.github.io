@@ -5,9 +5,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='iconfont icon-yingwen' style='font-size:48px;'></i> English version"
+    - label: "<i class='iconfont icon-yingwen' style='font-size:24px;'></i> English version"
       url: "/site-en/"
-    - label: "<i class='iconfont icon-zhongwen' style='font-size:48px;'></i> 中文版"
+    - label: "<i class='iconfont icon-zhongwen' style='font-size:24px;'></i> 中文版"
       url: "/site-zh/"
 excerpt: >
   Welcome to Neutrino's personal site.<br />
