@@ -31,7 +31,7 @@ feature_row:
 
 {% include feature_row %}
 
-<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+<link rel="stylesheet" href="https://at.alicdn.com/t/font_1128404_q6ba1h94yc.css">
 
 <i class='iconfont icon-zhong'></i>
 
