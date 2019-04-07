@@ -15,14 +15,14 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "English version personal site"
-    title: "English version personal site"
+    title: "English version"
     excerpt: "The English version of Neutrino's personal site."
     url: "/site-en/"
     btn_class: "btn--primary"
     btn_label: "Visit now"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "中文版个人主页"
-    title: "中文版个人主页"
+    title: "中文版"
     excerpt: "Neutrino的中文版个人主页"
     url: "/site-zh/"
     btn_class: "btn--primary"
