@@ -31,6 +31,14 @@ feature_row:
 
 {% include feature_row %}
 
-//at.alicdn.com/t/font_1128404_q6ba1h94yc.css
+@font-face {
+  font-family: 'iconfont';  /* project id 1128404 */
+  src: url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.eot');
+  src: url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.svg#iconfont') format('svg');
+}
 
-icon-zhongwen
+&#xe6c8;
