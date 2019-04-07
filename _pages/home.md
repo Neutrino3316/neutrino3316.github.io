@@ -33,6 +33,6 @@ feature_row:
 
 <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
 
-<i class='iconfont icon-xxx'></i>
+<i class='iconfont icon-zhong'></i>
 
 <i class='fas fa-globe-americas'></i>
