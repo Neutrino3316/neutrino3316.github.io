@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-download'></i> Install now2"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  Welcome to Neutrino's personal site.</br>
+  Welcome to Neutrino's personal site.<br />
   欢迎来到Neutrino的个人主页
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
