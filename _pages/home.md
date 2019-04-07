@@ -7,7 +7,7 @@ header:
   actions:
     - label: "<i class='fas fa-globe-americas'></i> English version"
       url: "/site-en/"
-    - label: "<i class='fas fa-language'></i> 中文版"
+    - label: "<i class="iconfont icon-yingwen"></i> 中文版"
       url: "/site-zh/"
 excerpt: >
   Welcome to Neutrino's personal site.<br />
@@ -30,15 +30,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-@font-face {
-  font-family: 'iconfont';  /* project id 1128404 */
-  src: url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.eot');
-  src: url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.woff2') format('woff2'),
-  url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.woff') format('woff'),
-  url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_1128404_q6ba1h94yc.svg#iconfont') format('svg');
-}
-
-&#xe6c8;
