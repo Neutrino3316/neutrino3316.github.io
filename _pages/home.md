@@ -5,9 +5,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-globe-americas'></i> English version"
+    - label: "<i class='iconfont icon-yingwen'></i> English version"
       url: "/site-en/"
-    - label: "<i class='iconfont icon-zhong'></i> 中文版"
+    - label: "<i class='iconfont icon-zhongwen'></i> 中文版"
       url: "/site-zh/"
 excerpt: >
   Welcome to Neutrino's personal site.<br />
@@ -33,6 +33,6 @@ feature_row:
 
 <link rel="stylesheet" href="https://at.alicdn.com/t/font_1128404_q6ba1h94yc.css">
 
-<i class='iconfont icon-zhong style='font-size:48px;'></i>
+<i class='iconfont icon-zhong' style='font-size:48px;'></i>
 
 <i class='fas fa-globe-americas'></i>
