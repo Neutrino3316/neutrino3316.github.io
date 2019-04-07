@@ -78,6 +78,11 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+head_scripts:
+  - http://at.alicdn.com/t/font_1128404_q6ba1h94yc.css
+footer_scripts:
+  - 
+
 # Social Sharing
 twitter:
   username               : # &twitter "mmistakes"
