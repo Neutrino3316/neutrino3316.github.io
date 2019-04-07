@@ -5,10 +5,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now1"
-      url: "/docs/quick-start-guide/"
-    - label: "<i class='fas fa-download'></i> Install now2"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-globe-americas'></i> English version"
+      url: "/site-en/"
+    - label: "<i class='fas fa-language'></i> 中文版"
+      url: "/site-zh/"
 excerpt: >
   Welcome to Neutrino's personal site.<br />
   欢迎来到Neutrino的个人主页
