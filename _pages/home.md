@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#00BFFF"
   overlay_image: https://cdn.pixabay.com/photo/2016/08/14/18/27/sailing-boat-1593613_960_720.jpg
   actions:
     - label: "<i class='iconfont icon-yingwen' style='font-size:24px;'></i> English version"
