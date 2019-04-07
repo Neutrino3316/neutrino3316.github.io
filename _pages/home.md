@@ -7,7 +7,7 @@ header:
   actions:
     - label: "<i class='fas fa-globe-americas'></i> English version"
       url: "/site-en/"
-    - label: "<i class='fas fa-language'></i> 中文版"
+    - label: "<svg class="icon" aria-hidden="true"> <use xlink:href="#icon-zhongwen"></use> </svg> 中文版"
       url: "/site-zh/"
 excerpt: >
   Welcome to Neutrino's personal site.<br />
@@ -31,15 +31,5 @@ feature_row:
 
 {% include feature_row %}
 
-<style type="text/css">
-    .icon {
-       width: 1em; height: 1em;
-       vertical-align: -0.15em;
-       fill: currentColor;
-       overflow: hidden;
-    }
-</style>
 
-<svg class="icon" aria-hidden="true">
-    <use xlink:href="#icon-zhongwen"></use>
-</svg>
+
