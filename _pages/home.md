@@ -31,13 +31,8 @@ feature_row:
 
 {% include feature_row %}
 
-<style type="text/css">
-    .icon {
-       width: 1em; height: 1em;
-       vertical-align: -0.15em;
-       fill: currentColor;
-       overflow: hidden;
-    }
-</style>
+<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
 
-<svg class="icon" aria-hidden="true"> <use xlink:href="#icon-zhongwen"></use> </svg>
+<i class='iconfont icon-xxx'></i>
+
+<i class='fas fa-globe-americas'></i>

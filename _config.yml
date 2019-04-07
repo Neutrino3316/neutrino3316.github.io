@@ -80,7 +80,6 @@ naver_site_verification  :
 
 head_scripts:
   - /assets/js/font_1128404_q6ba1h94yc.js
-  - /assets/css/ali_icon.css
 
 # Social Sharing
 twitter:
