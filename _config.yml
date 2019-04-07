@@ -79,9 +79,9 @@ yandex_site_verification :
 naver_site_verification  :
 
 head_scripts:
-  - /assets/css/ali_icon.css # http://at.alicdn.com/t/font_1128404_q6ba1h94yc.css
+  - http://at.alicdn.com/t/font_1128404_q6ba1h94yc.css
 footer_scripts:
-  - /assets/css/ali_icon.css
+  - 
 
 # Social Sharing
 twitter:
