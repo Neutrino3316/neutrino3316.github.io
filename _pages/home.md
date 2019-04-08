@@ -2,9 +2,8 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#00BFFF"
-  color: "#000000"
-  overlay_image: https://cdn.pixabay.com/photo/2016/08/14/18/27/sailing-boat-1593613_960_720.jpg
+  overlay_filter: rgba(255, 0, 255, 0.1)
+  overlay_image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg
   actions:
     - label: "<i class='iconfont icon-yingwen' style='font-size:24px;'></i> English version"
       url: "/site-en/"
@@ -14,14 +13,14 @@ excerpt: >
   Welcome to Neutrino's personal site.<br />
   欢迎来到Neutrino的个人主页
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: https://cdn.pixabay.com/photo/2015/08/01/13/47/seattle-870282_960_720.jpg
     alt: "English version personal site"
     title: "English version"
     excerpt: "The English version of Neutrino's personal site."
     url: "/site-en/"
     btn_class: "btn--primary"
     btn_label: "Visit now"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: https://cdn.pixabay.com/photo/2017/05/02/15/31/canton-2278473_960_720.jpg
     alt: "中文版个人主页"
     title: "中文版"
     excerpt: "Neutrino的中文版个人主页"
