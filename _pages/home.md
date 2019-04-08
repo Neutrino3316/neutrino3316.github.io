@@ -13,21 +13,21 @@ excerpt: >
   Welcome to Neutrino's personal site.<br />
   欢迎来到Neutrino的个人主页
 feature_row:
-  - image_path: https://cdn.pixabay.com/photo/2015/08/01/13/47/seattle-870282_960_720.jpg
+  - image_path: https://cdn.pixabay.com/photo/2017/08/07/23/16/seattle-2609031_960_720.jpg
     alt: "English version personal site"
     title: "English version"
     excerpt: "The English version of Neutrino's personal site."
     url: "/site-en/"
     btn_class: "btn--primary"
     btn_label: "Visit now"
-  - image_path: https://cdn.pixabay.com/photo/2017/05/02/15/31/canton-2278473_960_720.jpg
+  - image_path: https://cdn.pixabay.com/photo/2016/02/15/09/32/canton-tower-1200872_960_720.jpg
     alt: "中文版个人主页"
     title: "中文版"
     excerpt: "Neutrino的中文版个人主页"
     url: "/site-zh/"
     btn_class: "btn--primary"
     btn_label: "立即进入"
-  - image_path: https://cdn.pixabay.com/photo/2016/12/07/22/33/laptop-1890547_960_720.jpg
+  - image_path: https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg
     alt: "实验室指南"
     title: "实验室指南"
     excerpt: "实验室指南"
