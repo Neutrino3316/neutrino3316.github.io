@@ -27,6 +27,13 @@ feature_row:
     url: "/site-zh/"
     btn_class: "btn--primary"
     btn_label: "立即进入"
+  - image_path: https://cdn.pixabay.com/photo/2016/12/07/22/33/laptop-1890547_960_720.jpg
+    alt: "实验室指南"
+    title: "实验室指南"
+    excerpt: "实验室指南"
+    url: "/balyspusys/"
+    btn_class: "btn--primary"
+    btn_label: "立即进入"
 ---
 
 {% include feature_row %}
