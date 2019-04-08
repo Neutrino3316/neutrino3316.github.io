@@ -32,5 +32,3 @@ feature_row:
 {% include feature_row %}
 
 <link rel="stylesheet" href="https://at.alicdn.com/t/font_1128404_q6ba1h94yc.css">
-
-<i class='fas fa-globe-americas'></i>
