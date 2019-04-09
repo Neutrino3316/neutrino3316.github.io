@@ -13,14 +13,14 @@ excerpt: >
   Welcome to Neutrino's personal site.<br />
   欢迎来到Neutrino的个人主页
 feature_row:
-  - image_path: https://img.ssyer.com/picture/new/zl/91fb17c393ea122affd20beafe6cd1de.jpg
+  - image_path: https://www.ssyer.com/download/picture/new/zl/91fb17c393ea122affd20beafe6cd1de.jpg?x-oss-process=image/resize,m_lfit,w_1080
     alt: "English version personal site"
     title: "English version"
     excerpt: "The English version of Neutrino's personal site."
     url: "/site-en/"
     btn_class: "btn--primary"
     btn_label: "Visit now"
-  - image_path: https://img.ssyer.com/picture/full/HJxn3LRnG7.jpg
+  - image_path: https://www.ssyer.com/download/picture/full/HJxn3LRnG7.jpg?x-oss-process=image/resize,m_lfit,w_1080
     alt: "中文版个人主页"
     title: "中文版"
     excerpt: "Neutrino的中文版个人主页"
