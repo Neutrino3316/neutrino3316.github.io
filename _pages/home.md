@@ -37,6 +37,7 @@ feature_row:
 ---
 
 <link rel="stylesheet" href="https://at.alicdn.com/t/font_1128404_q6ba1h94yc.css">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 {% include feature_row %}
 
